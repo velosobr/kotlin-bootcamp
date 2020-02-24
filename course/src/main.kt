@@ -1,9 +1,10 @@
-val name = "Lino"
-var greeting: String? = null
+fun getGretting(anyWrd: String) = "Hello $anyWrd"
+
+fun sayHello(anyWrd: String) {
+    println(getGretting(anyWrd))
+}
 
 fun main() {
-    val greetingToPrint = if(greeting != null) greeting else "Hi"
 
-println(greetingToPrint)
-    println(name)
+    sayHello("World")
 }
