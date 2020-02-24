@@ -19,5 +19,13 @@ val arrayOfNames= arrayOf("Lino","Karla","Duda","Maria")
 //    Using a convencional way
     println("Using a convencional way")
     arrayOfNames.forEach { name -> println(name) }
+// using index
+    println("prinln(\"\")\n")
 
+    arrayOfNames.forEachIndexed {
+        i, name -> println(
+        "$name is at index $i"
+    )
+
+    }
 }
