@@ -2,10 +2,8 @@ val name = "Lino"
 var greeting: String? = null
 
 fun main() {
+    val greetingToPrint = if(greeting != null) greeting else "Hi"
 
-    when(greeting){
-        null -> println("Hi")
-        else -> println(greeting)
-    }
+println(greetingToPrint)
     println(name)
 }
