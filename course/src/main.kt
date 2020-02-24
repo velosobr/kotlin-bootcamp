@@ -1,10 +1,8 @@
-fun getGretting(anyWrd: String) = "Hello $anyWrd"
-
-fun sayHello(anyWrd: String) {
-    println(getGretting(anyWrd))
-}
+fun sayHello(greeting: String, itemToGreet: String) = println("$greeting $itemToGreet")
 
 fun main() {
 
-    sayHello("World")
+    sayHello("Hello", "world")
+
 }
+
