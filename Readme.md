@@ -4,7 +4,9 @@ You can find it [here](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 ## ⭐️ Course Contents ⭐️
 ⌨️ Create Your First Kotlin Project [OK]
 ⌨️ Hello World [OK]
+
 ⌨️ Working With Variables [OK]
+
 ⌨️ Type System [OK]
 ⌨️ Basic Control Flow [OK]
 ⌨️ Basic Kotlin Functions [OK]
