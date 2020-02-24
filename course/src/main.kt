@@ -2,7 +2,11 @@ fun sayHello(greeting: String, itemToGreet: String) = println("$greeting $itemTo
 
 fun main() {
 
-    sayHello("Hello", "world")
+val interestingThings = arrayOf("Kotlin", "Programming", "Comic Books")
+
+    println(interestingThings.size)
+    println(interestingThings[0])
+    println(interestingThings.get(0))
 
 }
 
