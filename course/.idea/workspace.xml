@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f75f77f-e297-4cd0-838e-94fba978581c" name="Default Changelist" comment="Using parameters into functions">
+      <change beforePath="$PROJECT_DIR$/src/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="velosobr &lt;linoc.veloso@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YG7tpAMEROjqfn0VRYEwskJOLY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="course" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f75f77f-e297-4cd0-838e-94fba978581c" name="Default Changelist" comment="" />
+      <created>1582557294029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582557294029</updated>
+      <workItem from="1582557295438" duration="7971000" />
+      <workItem from="1582726300714" duration="601000" />
+      <workItem from="1582807687548" duration="602000" />
+      <workItem from="1585155667481" duration="1674000" />
+      <workItem from="1585157357506" duration="1933000" />
+      <workItem from="1585239112701" duration="138000" />
+      <workItem from="1585311891266" duration="645000" />
+    </task>
+    <task id="LOCAL-00001" summary="variables">
+      <created>1582557529928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582557529928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="basic about functions">
+      <created>1582564841945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582564841945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Using parameters into functions">
+      <created>1582565849271</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582565849271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="variables" />
+    <MESSAGE value="basic about functions" />
+    <MESSAGE value="Using parameters into functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using parameters into functions" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="50" y="215" width="848" height="677" key="#Project_Structure" timestamp="1582557301219">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="50" y="215" width="848" height="677" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1582557301219" />
+    <state x="768" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1585158082971">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="271" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1585158082971" />
+    <state x="520" y="95" width="869" height="914" key="CommitChangelistDialog2" timestamp="1582566214286">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="520" y="95" width="869" height="914" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1582566214286" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1585312604776">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1585312604776" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1585312604775">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1585312604775" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1585312604774">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1585312604774" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1585312604775">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1585312604775" />
+    <state x="75" y="277" width="800" height="551" key="Vcs.Push.Dialog.v2" timestamp="1582565867993">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="75" y="277" width="800" height="551" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1582565867993" />
+    <state x="254" y="227" width="442" height="650" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1582560426225">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="254" y="227" width="442" height="650" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582560426225" />
+    <state x="143" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1582565698576">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="143" y="257" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1582565698576" />
+  </component>
+</project>
