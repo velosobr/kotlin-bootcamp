@@ -1,9 +1,25 @@
 import javafx.application.Application.launch
 import kotlinx.coroutines.*
+import kotlin.system.measureTimeMillis
 
 fun main(args: Array<String>) {
-    sampleLaunchGlobal()
+    val list = listOf(10, 20, 30, 40, 50, 60, 70, 80, 90)
+    runBlocking {
+        val time = measureTimeMillis {
+            list.map { value ->
+                async {
+                    delay(2000L)
+                    println("processing value $value")
+                    value
+                }
+            }.awaitAll()
+        }
+        println("Processed in $time ms")
+    }
+
+
 }
+
 
 fun sampleOfBlocking() = runBlocking {
     println("1")
@@ -33,9 +49,7 @@ fun sampleLaunchGlobal() = runBlocking() {
 
 suspend fun printDelayed(message: String) {
     delay(3000L)
-
     println(message)
-
 }
 
 //fun exampleLaunchGlobal()
