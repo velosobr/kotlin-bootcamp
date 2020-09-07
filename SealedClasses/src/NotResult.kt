@@ -1,0 +1,1 @@
+object InProgress : Result<Nothing>()
