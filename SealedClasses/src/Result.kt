@@ -1,12 +1,21 @@
-sealed class Result <out T : Any>{
+sealed class Result<out T : Any> {
     data class Success<out T : Any>(val data: T) : Result<T>()
-    data class Error(val exception: Exception) : Result<Nothing>()
+    sealed class Error(val exception: Exception) : Result<Nothing>(){
+        class RecoverableError(exception: Exception) : kotlin.Error(exception)
+        class NonRecoverableError(exception: Exception): kotlin.Error(exception)
+    }
     object InProgress : Result<Nothing>()
 }
 
-fun handleResult(result: Result<Int>){
-    when(result){
+fun handleResult(result: Result<Int>) {
+    val action = when (result) {
+        is Result.Success -> {
 
-        else ->
-    }
+        }
+        is Result.Error -> {
+
+        }
+        InProgress -> TODO()
+        Result.InProgress -> TODO()
+    }.exhaustive
 }
